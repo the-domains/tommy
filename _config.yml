@@ -1,0 +1,14 @@
+layout_spectrum: 0.2400644
+typography_spectrum: 0.4140709
+color:
+  saturation: 0.6185876
+  lightness: 0.8135159
+  brandStrength: 0.5918064
+  rhythmicContrast: 0.683856
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: Tommy
