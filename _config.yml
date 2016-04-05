@@ -1,14 +1,26 @@
-layout_spectrum: 0.2400644
-typography_spectrum: 0.4140709
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  saturation: 0.6185876
-  lightness: 0.8135159
-  brandStrength: 0.5918064
-  rhythmicContrast: 0.683856
+  saturation: 0.4602578
+  brandStrength: 0.8737916
+  lightness: 0.5010741
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#291C37'
+    - '#C7B3A4'
+    - '#F1D6BC'
+    - '#000E63'
+    - '#368BBA'
+  rhythmicContrast: 0.683856
+typography_spectrum: 0.4140709
+layout_spectrum: 0.2250268
 name: Tommy
